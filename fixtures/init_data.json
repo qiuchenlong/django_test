@@ -1,0 +1,20 @@
+[
+  {
+    "model": "polls.Person",
+    "pk": 1,
+    "fields": {
+      "first_name": "John",
+      "last_name": "Lennon",
+      "p_money": 125563
+    }
+  },
+  {
+    "model": "polls.Person",
+    "pk": 2,
+    "fields": {
+      "first_name": "Paul",
+      "last_name": "McCartney111",
+      "p_money": 26153
+    }
+  }
+]
